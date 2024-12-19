@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|d:\\.netproject\\usbm_.net_training\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|d:\\.netproject\\usbm_.net_training\\consoleapp1\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|solutionrelative:task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|d:\\.netproject\\usbm_.net_training\\consoleapp1\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|solutionrelative:task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|d:\\.netproject\\usbm_.net_training\\consoleapp1\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|solutionrelative:task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|d:\\.netproject\\usbm_.net_training\\consoleapp1\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|solutionrelative:task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|d:\\.netproject\\usbm_.net_training\\consoleapp1\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|solutionrelative:task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|d:\\.netproject\\usbm_.net_training\\consoleapp1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|d:\\.netproject\\usbm_.net_training\\consoleapp1\\task1_output.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8EE3406C-F553-4C55-93E5-A2E7A1D74AB0}|ConsoleApp1.csproj|solutionrelative:task1_output.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task6.cs",
+              "DocumentMoniker": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task6.cs",
+              "RelativeDocumentMoniker": "task6.cs",
+              "ToolTip": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task6.cs",
+              "RelativeToolTip": "task6.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:52:34.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task5.cs",
+              "DocumentMoniker": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task5.cs",
+              "RelativeDocumentMoniker": "task5.cs",
+              "ToolTip": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task5.cs",
+              "RelativeToolTip": "task5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:52:11.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "task4.cs",
+              "DocumentMoniker": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task4.cs",
+              "RelativeDocumentMoniker": "task4.cs",
+              "ToolTip": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task4.cs",
+              "RelativeToolTip": "task4.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:52:01.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task3.cs",
+              "DocumentMoniker": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task3.cs",
+              "RelativeDocumentMoniker": "task3.cs",
+              "ToolTip": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task3.cs",
+              "RelativeToolTip": "task3.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:51:52.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task2.cs",
+              "DocumentMoniker": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task2.cs",
+              "RelativeDocumentMoniker": "task2.cs",
+              "ToolTip": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task2.cs",
+              "RelativeToolTip": "task2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:51:39.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "task1.cs",
+              "DocumentMoniker": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task1.cs",
+              "RelativeDocumentMoniker": "task1.cs",
+              "ToolTip": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task1.cs",
+              "RelativeToolTip": "task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:51:24.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:49:48.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "task1_output.png -  [English (United States)] - PNG [774x624, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task1_output.png",
+              "RelativeDocumentMoniker": "task1_output.png",
+              "ToolTip": "D:\\.netproject\\USBM_.NET_TRAINING\\ConsoleApp1\\task1_output.png -  [English (United States)] - PNG [774x624, 32 bit, PNG]",
+              "RelativeToolTip": "task1_output.png -  [English (United States)] - PNG [774x624, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-29T17:32:35.407Z",
+              "EditorCaption": " -  [English (United States)] - PNG [774x624, 32 bit, PNG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
